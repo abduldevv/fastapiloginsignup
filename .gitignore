@@ -17,3 +17,4 @@ venv/
 # Other
 .DS_Store
 *.sqlite3.idea/
+.idea/
